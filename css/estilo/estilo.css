@@ -2,3 +2,14 @@ body{background: #FFE4FA;}
 .TituloH1 {color: #B87A27; font-size: 40px; text-align: center; text-decoration: underline;}
 .Subtitulos{color:#FFC300; font-size: 33px; text-decoration: underline;}
 .Imagenes{width: 250px}
+
+header {background-color: red;}
+nav {background-color: pink;}
+section {background-color: green;
+float: left; width: 46%; height: 600px; overflow: auto; margin: 1%; border: 2px solid black}
+aside {background-color: blue; box-sizing: border-box;
+  width: 46%;float: left; height: 600px; overflow: auto; margin: 1%; border: 2px solid black; box-sizing: border-box;}
+footer {background-color: yellow;
+clear: both;}
+
+.IconoW {position: fixed;top:85%;right: 5%}
